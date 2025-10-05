@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on building a machine learning model to **[Briefly describe the business problem or goal, e.g., predict customer churn, classify a specific type of data, etc.]**. The workflow includes exploratory data analysis (EDA), data preprocessing, and training several classification models to find the best performer. The final model is saved and deployed in a simple web application.
+This project focuses on building a machine learning model. The workflow includes exploratory data analysis (EDA), data preprocessing, and training several classification models to find the best performer. The final model is saved and deployed in a simple web application.
 
 ## Key Files
 
