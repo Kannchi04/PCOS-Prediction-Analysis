@@ -72,7 +72,6 @@ The best-performing model (`model.joblib`) and the `StandardScaler` (`scalar.job
 ## How to Run
 
 1.  Clone this repository: `git clone [Your Repository URL]`
-2.  Install the required dependencies: `pip install -r requirements.txt` (You will need to create a `requirements.txt` file listing all libraries used, like pandas, scikit-learn, joblib, etc.)
-3.  Run the web application: `python app.py`
+2.  Run the web application: `python app.py`
 
 Feel free to explore the notebooks to understand the complete data science pipeline.
