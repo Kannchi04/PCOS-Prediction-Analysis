@@ -71,7 +71,7 @@ The best-performing model (`model.joblib`) and the `StandardScaler` (`scalar.job
 
 ## How to Run
 
-1.  Clone this repository: `git clone [Your Repository URL]`
+1.  Clone this repository: `git clone https://github.com/Kannchi04/PCOS-Prediction-Analysis.git`
 2.  Run the web application: `python app.py`
 
 Feel free to explore the notebooks to understand the complete data science pipeline.
